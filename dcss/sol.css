@@ -1,15 +1,11 @@
 
 
 body{
-	color: Orange;
+	color: Black;
 }
 
 p{
-	color: #F1C40F;
-}
-
-head{
-	color: #77bb99;
+	color: #6C11E7;
 	font-family: verdana;
-	font-size: 50px;
+	font-size: 15px;
 }
