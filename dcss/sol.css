@@ -1,5 +1,5 @@
 html {
-  background-image: url("tartan.png");
+  background-image: url("fondo3.jpg");
 }
 
 body{
@@ -29,8 +29,9 @@ box-shadow: -30px 10px 5px 0px rgba(0,0,0,0.75);
 p{
 
 	color: #6C11E7;
-	font-family: verdana;
-	font-size: 15px;
+	font-family: "Latin Modern Roman ";
+	font-style: oblique;
+	font-size: 18px;
   border: purple  2px solid;
   margin: 20px;
    font-weight: bold;
